@@ -4,6 +4,8 @@ title: Airpods
 ---
 
 # AirPods
-{% image "/images/airpods.jpg", "My AirPods" %}
+![My AirPods](/images/airpods.jpg)
 
 These are AirPods, and I use them to listen to music. I cannot leave home without them because music helps me relax and focus.
+
+{% note "These are expensive" %}

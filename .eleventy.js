@@ -6,12 +6,7 @@ module.exports = function(eleventyConfig) {
 };
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addShortcode("image", function(src, caption) {
-    return `
-      <figure>
-        <img src="${src}" alt="${caption}" style="max-width:100%;border:2px solid #ccc;">
-        <figcaption>${caption}</figcaption>
-      </figure>
-    `;
+  eleventyConfig.addShortcode("note", function(text) {
+    return `<p class="note">💡 ${text}</p>`;
   });
 };
