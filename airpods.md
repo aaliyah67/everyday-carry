@@ -4,7 +4,7 @@ title: Airpods
 ---
 
 # AirPods
-![My AirPods](/images/airpods.jpg)
+![My AirPods](/everyday-carry/airpods.jpg)
 
 These are AirPods, and I use them to listen to music. I cannot leave home without them because music helps me relax and focus.
 
